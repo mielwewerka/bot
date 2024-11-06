@@ -1,0 +1,3 @@
+git clone https://github.com/tradingeconomics/tradingeconomics-python.git
+cd tradingeconomics-python
+python setup.py install
